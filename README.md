@@ -1,5 +1,5 @@
 # iPhone-JSON-Encoder
-This is a web application that returns database information through a JSON formatted array by using PHP URL headers.
+This is a web application that returns MySQL database information through a JSON formatted array by using PHP URL headers.
 
 Installation:
 Put the contents of this repository into a new folder called "app" inside of your websites root directory (or make manually configure the dir path in each of the proper files)

@@ -18,4 +18,5 @@ Please note, you will have to make your own database procedures.  To view workin
 Working Example URLs:
 
 http://tethyr.palmtree-studios.net/app/class/fetch.php?proc=getCard&type=card&params[]=2
+
 http://tethyr.palmtree-studios.net/app/class/fetch.php?proc=getCardsAll&type=card

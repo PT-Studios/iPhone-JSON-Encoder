@@ -14,10 +14,4 @@ http://mywebsite/app/class/fetch.php?proc=getCard&type=card&params[]=3.
 The "type" parameter is simply for array readability, this can be whatever you like, in this case we used "card" because its returning a card.  
 
 This example returns one result array, but multiple result arrays, and multiple procedure params are totally supported.
-Please note, you will have to make your own database procedures.  To view working examples, visit the links below.
-
-Working Example URLs:
-
-http://tethyr.palmtree-studios.net/app/class/fetch.php?proc=getCard&type=card&params[]=2
-
-http://tethyr.palmtree-studios.net/app/class/fetch.php?proc=getCardsAll&type=card
+Please note, you will have to make your own database procedures.
